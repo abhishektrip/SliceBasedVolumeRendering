@@ -29,5 +29,5 @@
   * f. Anuerysm – using transfer function (figure 15,16)
   > `SliceBasedVolumeRendering.exe ANUERYSM_TF`
  
- 2. Use A & R keys to rotate the volume on the Y-axis . Esc key to exit the application. 
+ 2. Use A & D keys to rotate the volume on the Y-axis . Esc key to exit the application. 
 
